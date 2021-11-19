@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Howie, a CS student.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
