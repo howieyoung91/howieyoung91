@@ -1,4 +1,10 @@
-### Hi there 👋 This is Howie, a CS student.
+### Hi 👋 This is Howie, a CS student.
+
+C, Java, Golang, Minecraft
+
+Hunting for my first job.
+
+Email: ishowieyoung@icloud.com
 
 <!-- ![most-code](https://github-readme-stats.vercel.app/api/top-langs/?username=howieyoung91) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howieyoung91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
