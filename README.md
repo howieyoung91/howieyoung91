@@ -10,6 +10,7 @@
 Hunting for my first job.
 
 Email: ishowieyoung@icloud.com
+Blog : yanghaoyu.xyz
 
 <!-- ![most-code](https://github-readme-stats.vercel.app/api/top-langs/?username=howieyoung91) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howieyoung91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
