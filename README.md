@@ -9,8 +9,10 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="343" height="220" title="Do what you like, and do it best!" />
 Hunting for my first job.
 
-Email: ishowieyoung@icloud.com
-Blog : yanghaoyu.xyz
+### Contact Me:
+- Email: ishowieyoung@icloud.com
+- Blog : <a href="https://www.yanghaoyu.xyz">yanghaoyu.xyz</a>
+
 
 <!-- ![most-code](https://github-readme-stats.vercel.app/api/top-langs/?username=howieyoung91) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howieyoung91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
