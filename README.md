@@ -6,7 +6,7 @@
 ![Golang](https://img.shields.io/badge/Golang-rgba(90,%20200,%20250,%201))
 ![Minecraft](https://img.shields.io/badge/Minecraft-rgba(0,%20122,%20255,%201))
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="343" height="220" title="Do what you like, and do it best!" />
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="343" height="220" title="Do what you like, and do it best!" /> -->
 Hunting for my first job.
 
 ### Contact Me:
