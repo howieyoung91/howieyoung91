@@ -24,7 +24,7 @@ Hunting for my first job.
 ---
 
 ### Code Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howieyoung91)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howieyoung91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![alt](https://stats.justsong.cn/api/leetcode?username=howieyoung&cn=true) -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=howieyoung91&date_format=%5BY.%5Dn.j) -->
 
