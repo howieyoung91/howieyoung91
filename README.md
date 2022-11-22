@@ -28,7 +28,7 @@ Hunting for my first job.
 <!-- ![alt](https://stats.justsong.cn/api/leetcode?username=howieyoung&cn=true) -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=howieyoung91&date_format=%5BY.%5Dn.j) -->
 
-![alt](https://activity-graph.herokuapp.com/graph?username=howieyoung91&theme=xcode)
+<!-- ![alt](https://activity-graph.herokuapp.com/graph?username=howieyoung91&theme=xcode) -->
 
 <!-- ![Metrics](https://metrics.lecoq.io/howieyoung91?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=howieyoung91&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
