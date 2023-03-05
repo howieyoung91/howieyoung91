@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Howie, a software developer.
+### I'm Howie, a software developer.
 
 ### Interests 🥳
 
--   #### 🎨 Programming
+-   #### 💻 Programming
 
     ![C/C++](<https://img.shields.io/badge/C/C++-rgba(52,199,89,1)>)
     ![Java](<https://img.shields.io/badge/Java-rgba(200,230,11,1)>)
@@ -13,7 +13,7 @@ I'm Howie, a software developer.
     ![Rust](<https://img.shields.io/badge/Rust-rgba(255,59,48,1)>)
     ![Swift](<https://img.shields.io/badge/Swift-rgba(128,128,255,1)>)
 
--   #### Design
+-   #### 🎨 Design
 
     ![PhotoShop](<https://img.shields.io/badge/PhotoShop-rgba(0,30,255,1)>)
     ![PhotoShop](<https://img.shields.io/badge/Sketch-rgba(255,0,128,1)>)
