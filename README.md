@@ -1,5 +1,7 @@
 ### Hi 👋 This is Howie, a CS student.
 
+### Interests
+
 ![C](<https://img.shields.io/badge/C/C++-rgba(52,%20199,%2089,%201)>)
 ![Java](<https://img.shields.io/badge/Java-rgba(255,%2059,%2048,%201)>)
 ![Golang](<https://img.shields.io/badge/Golang-rgba(90,%20200,%20250,%201)>)
@@ -7,12 +9,6 @@
 ![Minecraft](<https://img.shields.io/badge/Minecraft-rgba(175, 238, 238)>)
 ![The Forest](<https://img.shields.io/badge/The%20Forest-rgba(123, 104, 238)>)
 ![Dying Light](<https://img.shields.io/badge/Dying%20Light-rgba(0,%20122,%20255,%201)>)
-
----
-
-Hunting for my first job.
-
----
 
 ### Contact Me
 
