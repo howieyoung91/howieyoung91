@@ -16,8 +16,9 @@
 -   ##### 🎨 Design
 
     ![PhotoShop](<https://img.shields.io/badge/PhotoShop-rgba(0,30,255,1)>)
-    ![PhotoShop](<https://img.shields.io/badge/Sketch-rgba(255,0,128,1)>)
-    ![PhotoShop](<https://img.shields.io/badge/Axure-rgba(255,255,128,1)>)
+    ![Affinite Photo](<https://img.shields.io/badge/Affinite%20Photo-rgba(0,128,255,1)>)
+    ![Sketch](<https://img.shields.io/badge/Sketch-rgba(255,0,128,1)>)
+    ![Axure](<https://img.shields.io/badge/Axure-rgba(255,255,128,1)>)
 
 -   ##### 🎮 Games
 
@@ -28,6 +29,7 @@
     ![Minecraft](<https://img.shields.io/badge/Minecraft-rgba(175, 238, 238)>)
     ![The Forest](<https://img.shields.io/badge/The%20Forest-rgba(255, 128, 0)>)
     ![Dying Light](<https://img.shields.io/badge/Dying%20Light-rgba(0,220,128,1)>)
+    ![Paranormal HK](<https://img.shields.io/badge/Paranormal HK-rgba(255,0,0,1)>)
 
 ---
 
