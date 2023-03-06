@@ -33,7 +33,7 @@
 
 #### Code Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howieyoung91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howieyoung91&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![alt](https://stats.justsong.cn/api/bilibili/?id=93335880) -->
 
