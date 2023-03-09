@@ -7,7 +7,7 @@
 -   ##### 💻 Programming
 
     ![C/C++](<https://img.shields.io/badge/C/C++-rgba(52,199,89,1)>)
-    ![Java](<https://img.shields.io/badge/Java-rgba(200,230,11,1)>)
+    ![Java](<https://img.shields.io/badge/Java/Kotlin-rgba(200,230,11,1)>)
     ![TypeScript](<https://img.shields.io/badge/TypeScript-rgba(12864,200,1)>)
     ![Golang](<https://img.shields.io/badge/Golang-rgba(90,200,250,1)>)
     ![Rust](<https://img.shields.io/badge/Rust-rgba(255,59,48,1)>)
